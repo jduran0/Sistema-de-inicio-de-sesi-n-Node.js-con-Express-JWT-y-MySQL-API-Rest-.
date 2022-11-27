@@ -1,0 +1,1 @@
+API Rest completa para la validación y el manejo de sesiones para nuestra aplicación.
